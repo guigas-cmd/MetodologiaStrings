@@ -1,0 +1,1 @@
+- Implementa 8 métodos principais da classe String - Inclui comparações entre indexOf e lastIndexOf   - Código documentado para estudos futuros
